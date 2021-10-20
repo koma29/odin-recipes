@@ -1,2 +1,2 @@
 # odin-recipes
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+This is a website displaying some recipes for food. This project has taught me how to utilize git by using the gitbash terminal and it's commands to clone, initialize, commit, and push changes to the repository. I've also learned some beginner html and css.
